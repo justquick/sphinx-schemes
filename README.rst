@@ -11,8 +11,8 @@ Installation:
 
 2. Alter the corresponding variables in your ``conf.py``::
 
-   html_theme_path = ['_theme']
-   html_theme = 'nature'
+    html_theme_path = ['_theme']
+    html_theme = 'nature'
 
 2. In your 
 Current schemes:
