@@ -6,7 +6,7 @@ Note: Scheme means Theme ;-)
 
 Installation: 
 
-1. Create a directory called ``_templates`` in your project directory. Copy
+1. Create a directory called ``_theme`` in your project directory. Copy
    the scheme folder (for instance ``nature`` to this folder).
 
 2. Alter the corresponding variables in your ``conf.py``::
