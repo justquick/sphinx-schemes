@@ -16,6 +16,15 @@ body {
     padding: 0;
 }
 
+div.documentwrapper {
+    float: left;
+    width: 100%;
+}
+
+div.bodywrapper {
+    margin: 0 0 0 230px;
+}
+
 hr{
     border: 1px solid #B1B4B6;
 }
