@@ -25,9 +25,18 @@ Current schemes:
 Nature
 ^^^^^^
 
+`html_theme = 'nature'`
+
+`Demo Nature <http://docs.mahner.org/django-generic-flatblocks/>`_
+
+
 .. image:: http://cloud.github.com/downloads/bartTC/sphinx-schemes/nature.png
 
-Mac
-^^^
+Apple Developer Connection
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: http://github.com/washingtontimes/django-objectpermissions/raw/master/docs/_static/scrn2.png
+`html_theme = 'adc'`
+
+`Demo ADC <http://sphinxdoc.github.com/django-object-permissions/>`_
+
+.. image:: http://github.com/coordt/ADCtheme/raw/master/static/scrn1.png
