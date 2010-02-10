@@ -15,7 +15,9 @@ Installation:
     html_theme_path = ['_theme']
     html_theme = 'nature'
 
-To read more about theming sphinx, `check out the official doc<http://sphinx.pocoo.org/theming.html>`_.
+To read more about theming sphinx, `check out the official doc`_.
+
+.. _check out the official doc: http://sphinx.pocoo.org/theming.html
 
 Current schemes:
 ----------------
