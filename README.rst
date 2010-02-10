@@ -6,18 +6,26 @@ Note: Scheme means Theme ;-)
 
 Installation: 
 
-1. Create a directory called ``_theme`` in your project directory. Copy
-   the scheme folder (for instance ``nature`` to this folder).
+1. Create a directory called ``_theme`` in your project directory.
 
-2. Alter the corresponding variables in your ``conf.py``::
+2. Copy the scheme folder (for instance ``nature`` to this folder).
+
+3. Alter the corresponding variables in your ``conf.py``::
 
     html_theme_path = ['_theme']
     html_theme = 'nature'
 
-2. In your 
+To read more about theming sphinx, `check out the official doc<http://sphinx.pocoo.org/theming.html>`_.
+
 Current schemes:
 ----------------
 
+Nature
+^^^^^^
+
 .. image:: http://cloud.github.com/downloads/bartTC/sphinx-schemes/nature.png
 
-Nature
+Mac
+^^^
+
+.. image:: http://github.com/washingtontimes/django-objectpermissions/raw/master/docs/_static/scrn2.png
